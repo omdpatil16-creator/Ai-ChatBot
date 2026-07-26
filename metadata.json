@@ -1,0 +1,6 @@
+{
+  "name": "AI ChatBot",
+  "description": "A modern, feature-rich AI Chat Bot application with multiple model modes, chat history, search, voice features, export options, and persistent user settings.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
